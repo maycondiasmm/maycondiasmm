@@ -1,27 +1,18 @@
-Hello, I'm Maycon Dias! 👋
+## 👋 Hi, I'm Maycon Dias
 
-I'm a developer passionate about technology and innovation, with experience in web development, data analysis, and programming. Here you'll find some of my projects and work.
+Junior Data Analyst | Power BI | Python | SQL  
+Junior Web Developer | HTML | CSS | JavaScript | PHP | MySQL
 
-Technologies I use:
-- Web Development:
-    - HTML5
-    - CSS3
-    - JavaScript
-    - PHP
-    - Designer UX / UI
-- Database:
-    - SQL
-- Data Analysis:
-    - Python
-- Other skills:
-    - Data analysis
-    - Data visualization
-Contact:
-- 📧 maycondiasmm@outlook.com
-- 💼 https://www.linkedin.com/in/maycon-dias-bb3b202a6
-- 🐙 https://github.com/maycondiasmm
+---
 
-GitHub Stats:
-maycondiasmm
+### 📊 Data Projects
+- Amazon Sales Dashboard (Power BI)
+- Credit Risk Analysis (Python + Power BI)
+- Spotify Dashboard (Power BI)
 
-Thanks for visiting my profile! 😊
+---
+
+### 💻 Web Development Projects
+- Soundwave – E-commerce Web
+- Houses Store – Website
+
