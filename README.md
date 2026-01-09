@@ -1,22 +1,32 @@
-## 👋 Olá, eu sou Maycon Dias
+## 👋 Hi, I'm Maycon
 
-Junior Data Analyst | Power BI | Python | SQL  
-Junior Web Developer | HTML | CSS | JavaScript | PHP | MySQL
-
----
-
-### 📊 Data Projects
-- Amazon Sales Dashboard (Power BI)
-- Credit Risk Analysis (Python + Power BI)
-- Spotify Dashboard (Power BI)
-- Titanic Analysis (Python)
+I'm an aspiring Data Analyst with a background in software development, currently focused on data analysis and analytics projects.
 
 ---
 
-### 💻 Web Development Projects
-- Soundwave – E-commerce Web
-- Houses Store – Website
+## 📊 Data Skills
+- Python (Pandas, NumPy)
+- Exploratory Data Analysis (EDA)
+- Data visualization with Matplotlib
+- SQL for data analysis
+- Basic Machine Learning (Logistic Regression)
 
-📫 Contato: maycondiasmm@outlook.com  
-💼 LinkedIn: https://www.linkedin.com/in/maycon-dias-bb3b202a6
+---
+
+## 📌 Featured Project
+- **Credit Risk Analysis**  
+  End-to-end project including exploratory data analysis, categorical risk analysis, and a logistic regression model for credit default prediction.  
+  🔗 Check the repository for details.
+
+---
+
+## 🌐 Background
+- Experience with web development (HTML, CSS, JavaScript)
+- Familiar with Git and GitHub workflows
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/maycon-dias-bb3b202a6  
+- Email: maycondiasmm@outlook.com
 
